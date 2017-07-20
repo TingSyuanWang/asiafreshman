@@ -6,7 +6,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">	
 
-		<title><?= isset($PageTitle) ? $PageTitle : " "?> | 亞洲大學 107 學年度新生專區 Asia University, Taiwan</title>	
+		<title><?= isset($PageTitle) ? $PageTitle : " "?> | 亞洲大學 106 學年度新生專區 Asia University, Taiwan</title>	
 
 		<meta name="keywords" content="亞洲大學, 新生" />
 		<meta name="description" content="亞洲大學新生入學須知與注意事項">
@@ -102,17 +102,17 @@
 														</a>														
                                                     </li>                                                    
                                                     <li class="dropdown <?= isset($MenuToggle5) ? $MenuToggle5 : " "?>">
-														<a class="dropdown-toggle" href="index.html">
+														<a class="dropdown-toggle" href="#">
 															聯絡資訊及行事曆
 														</a>
 														<ul class="dropdown-menu">
 															<li>
-																<a href="#">
+																<a href="services.php">
 																	服務窗口
 																</a>
 															</li>
 															<li>
-																<a href="#">
+																<a href="department.php">
 																	系所聯絡
 																</a>
                                                             </li>

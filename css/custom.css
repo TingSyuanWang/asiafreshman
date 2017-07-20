@@ -25,3 +25,7 @@
 #footer .footer-copyright nav ul {
     font-size: 14px;
 }
+
+.table-bordered {
+    font-size: 1.2em !important;
+}
